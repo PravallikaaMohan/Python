@@ -27,3 +27,4 @@ if(flag):
     print("Peak Element at position ", flag)
 else:
     print(0)
+    print("No peak Element")
